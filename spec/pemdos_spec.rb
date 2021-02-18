@@ -1,6 +1,3 @@
-require 'pry'
-require './lib/pry_debugging.rb'
-
 require_relative '../fix_using_tests/pemdos'
 
 describe "pemdos" do
