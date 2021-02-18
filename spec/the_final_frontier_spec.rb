@@ -1,3 +1,6 @@
+require 'pry'
+require './lib/pry_debugging.rb'
+
 require_relative '../fix_using_tests/the_final_frontier'
 
 describe "the_final_frontier" do
